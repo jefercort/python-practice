@@ -26,7 +26,7 @@ print(saludo_2)
 print(saludo_2[18])
 print(saludo_2[-12])
 
-# PARA SABER LA LONGITUD DE UNA CADENA USAMOS len()
+# PARA SABER LA LONGITUD DE UNA CADENA USAMOS len().
 
 print(len(saludo_2))
 
